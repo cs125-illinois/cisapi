@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:term xmlns:ns2="http://rest.cis.illinois.edu" id="120208">
+    <parents>
+        <calendarYear id="2020" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020.xml">2020</calendarYear>
+    </parents>
+    <label>Fall 2020</label>
+    <subjects>
+        <subject id="AAS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/AAS.xml">Asian American Studies</subject>
+        <subject id="ABE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ABE.xml">Agricultural and Biological Engineering</subject>
+        <subject id="ACCY" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ACCY.xml">Accountancy</subject>
+        <subject id="ACE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ACE.xml">Agricultural and Consumer Economics</subject>
+        <subject id="ACES" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ACES.xml">Agricultural, Consumer and Environmental Sciences</subject>
+        <subject id="ADV" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ADV.xml">Advertising</subject>
+        <subject id="AE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/AE.xml">Aerospace Engineering</subject>
+        <subject id="AFAS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/AFAS.xml">Air Force Aerospace Studies</subject>
+        <subject id="AFRO" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/AFRO.xml">African American Studies</subject>
+        <subject id="AFST" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/AFST.xml">African Studies</subject>
+        <subject id="AGCM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/AGCM.xml">Agricultural Communications</subject>
+        <subject id="AGED" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/AGED.xml">Agricultural Education</subject>
+        <subject id="AHS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/AHS.xml">Applied Health Sciences Courses</subject>
+        <subject id="AIS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/AIS.xml">American Indian Studies</subject>
+        <subject id="ALEC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ALEC.xml">Agricultural Leadership, Education, and Communications Program</subject>
+        <subject id="ANSC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ANSC.xml">Animal Sciences</subject>
+        <subject id="ANTH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ANTH.xml">Anthropology</subject>
+        <subject id="ARAB" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ARAB.xml">Arabic</subject>
+        <subject id="ARCH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ARCH.xml">Architecture</subject>
+        <subject id="ART" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ART.xml">Art</subject>
+        <subject id="ARTD" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ARTD.xml">Art--Design</subject>
+        <subject id="ARTE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ARTE.xml">Art--Education</subject>
+        <subject id="ARTF" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ARTF.xml">Art--Foundation</subject>
+        <subject id="ARTH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ARTH.xml">Art--History</subject>
+        <subject id="ARTS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ARTS.xml">Art--Studio</subject>
+        <subject id="ASRM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ASRM.xml">Actuarial Science and Risk Management</subject>
+        <subject id="ASST" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ASST.xml">Asian Studies</subject>
+        <subject id="ASTR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ASTR.xml">Astronomy</subject>
+        <subject id="ATMS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ATMS.xml">Atmospheric Sciences</subject>
+        <subject id="BADM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BADM.xml">Business Administration</subject>
+        <subject id="BASQ" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BASQ.xml">Basque</subject>
+        <subject id="BCOG" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BCOG.xml">Brain and Cognitive Science</subject>
+        <subject id="BCS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BCS.xml">Bosnian-Croatian-Serbian</subject>
+        <subject id="BDI" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BDI.xml">Business Data and Innovation</subject>
+        <subject id="BIOC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BIOC.xml">Biochemistry</subject>
+        <subject id="BIOE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BIOE.xml">Bioengineering</subject>
+        <subject id="BIOL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BIOL.xml">Biology</subject>
+        <subject id="BIOP" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BIOP.xml">Biophysics</subject>
+        <subject id="BSE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BSE.xml">Biomedical Sciences and Engineering</subject>
+        <subject id="BTW" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BTW.xml">Business and Technical Writing</subject>
+        <subject id="BUS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/BUS.xml">Business</subject>
+        <subject id="CB" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CB.xml">Comparative Biosciences</subject>
+        <subject id="CDB" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CDB.xml">Cell and Developmental Biology</subject>
+        <subject id="CEE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CEE.xml">Civil and Environmental Engineering</subject>
+        <subject id="CHBE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CHBE.xml">Chemical and Biomolecular Engineering</subject>
+        <subject id="CHEM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CHEM.xml">Chemistry</subject>
+        <subject id="CHIN" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CHIN.xml">Chinese</subject>
+        <subject id="CHLH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CHLH.xml">Community Health</subject>
+        <subject id="CHP" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CHP.xml">Campus Honors Program Courses</subject>
+        <subject id="CI" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CI.xml">Curriculum and Instruction</subject>
+        <subject id="CIC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CIC.xml">Committee on Inst Cooperation</subject>
+        <subject id="CLCV" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CLCV.xml">Classical Civilization</subject>
+        <subject id="CLE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CLE.xml">Clinical Sciences and Engineering</subject>
+        <subject id="CMN" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CMN.xml">Communication</subject>
+        <subject id="CPSC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CPSC.xml">Crop Sciences</subject>
+        <subject id="CS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CS.xml">Computer Science</subject>
+        <subject id="CSE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CSE.xml">Computational Science and Engineering</subject>
+        <subject id="CW" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CW.xml">Creative Writing</subject>
+        <subject id="CWL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CWL.xml">Comparative and World Literature</subject>
+        <subject id="CZCH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/CZCH.xml">Czech</subject>
+        <subject id="DANC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/DANC.xml">Dance</subject>
+        <subject id="EALC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/EALC.xml">East Asian Language and Culture</subject>
+        <subject id="ECE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ECE.xml">Electrical and Computer Engineering</subject>
+        <subject id="ECON" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ECON.xml">Economics</subject>
+        <subject id="EDPR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/EDPR.xml">Educational Practice</subject>
+        <subject id="EDUC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/EDUC.xml">Education</subject>
+        <subject id="EIL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/EIL.xml">English as an International Language</subject>
+        <subject id="ENG" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ENG.xml">Engineering</subject>
+        <subject id="ENGH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ENGH.xml">Engineering Honors</subject>
+        <subject id="ENGL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ENGL.xml">English</subject>
+        <subject id="ENSU" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ENSU.xml">Environmental Sustainability</subject>
+        <subject id="ENT" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ENT.xml">Entomology</subject>
+        <subject id="ENVS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ENVS.xml">Environmental Studies</subject>
+        <subject id="EOL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/EOL.xml">Educational Organization and Leadership</subject>
+        <subject id="EPOL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/EPOL.xml">Education Policy, Organization and Leadership</subject>
+        <subject id="EPS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/EPS.xml">Educational Policy Studies</subject>
+        <subject id="EPSY" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/EPSY.xml">Educational Psychology</subject>
+        <subject id="ESE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ESE.xml">Earth, Society, and Environment</subject>
+        <subject id="ESL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ESL.xml">English as a Second Language</subject>
+        <subject id="EURO" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/EURO.xml">European Union Studies</subject>
+        <subject id="FAA" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/FAA.xml">Fine and Applied Arts</subject>
+        <subject id="FIN" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/FIN.xml">Finance</subject>
+        <subject id="FLTE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/FLTE.xml">Foreign Language Teacher Education</subject>
+        <subject id="FR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/FR.xml">French</subject>
+        <subject id="FSHN" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/FSHN.xml">Food Science and Human Nutrition</subject>
+        <subject id="GC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GC.xml">Graduate College</subject>
+        <subject id="GEOG" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GEOG.xml">Geography</subject>
+        <subject id="GEOL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GEOL.xml">Geology</subject>
+        <subject id="GER" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GER.xml">German</subject>
+        <subject id="GLBL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GLBL.xml">Global Studies</subject>
+        <subject id="GMC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GMC.xml">Germanic</subject>
+        <subject id="GRK" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GRK.xml">Greek</subject>
+        <subject id="GRKM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GRKM.xml">Modern Greek</subject>
+        <subject id="GS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GS.xml">General Studies</subject>
+        <subject id="GWS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/GWS.xml">Gender and Women's Studies</subject>
+        <subject id="HDFS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/HDFS.xml">Human Development and Family Studies</subject>
+        <subject id="HEBR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/HEBR.xml">Hebrew, Modern and Classical</subject>
+        <subject id="HIST" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/HIST.xml">History</subject>
+        <subject id="HNDI" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/HNDI.xml">Hindi</subject>
+        <subject id="HORT" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/HORT.xml">Horticulture</subject>
+        <subject id="HRD" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/HRD.xml">Human Resource Development</subject>
+        <subject id="HT" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/HT.xml">Health Technology</subject>
+        <subject id="HUM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/HUM.xml">Humanities Courses</subject>
+        <subject id="IB" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/IB.xml">Integrative Biology</subject>
+        <subject id="IE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/IE.xml">Industrial Engineering</subject>
+        <subject id="IHLT" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/IHLT.xml">Interdisciplinary Health Sciences</subject>
+        <subject id="INFO" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/INFO.xml">Informatics</subject>
+        <subject id="IS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/IS.xml">Information Sciences</subject>
+        <subject id="ITAL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ITAL.xml">Italian</subject>
+        <subject id="JAPN" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/JAPN.xml">Japanese</subject>
+        <subject id="JOUR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/JOUR.xml">Journalism</subject>
+        <subject id="JS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/JS.xml">Jewish Studies</subject>
+        <subject id="KIN" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/KIN.xml">Kinesiology</subject>
+        <subject id="KOR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/KOR.xml">Korean</subject>
+        <subject id="LA" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/LA.xml">Landscape Architecture</subject>
+        <subject id="LAS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/LAS.xml">Liberal Arts and Sciences</subject>
+        <subject id="LAST" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/LAST.xml">Latin American and Caribbean Studies</subject>
+        <subject id="LAT" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/LAT.xml">Latin</subject>
+        <subject id="LAW" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/LAW.xml">Law</subject>
+        <subject id="LEAD" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/LEAD.xml">Organizational and Community Leadership</subject>
+        <subject id="LER" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/LER.xml">Labor and Employment Relations</subject>
+        <subject id="LING" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/LING.xml">Linguistics</subject>
+        <subject id="LLS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/LLS.xml">Latina/Latino Studies</subject>
+        <subject id="MACS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MACS.xml">Media and Cinema Studies</subject>
+        <subject id="MATH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MATH.xml">Mathematics</subject>
+        <subject id="MBA" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MBA.xml">Regular MBA Program Administration</subject>
+        <subject id="MCB" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MCB.xml">Molecular and Cell Biology</subject>
+        <subject id="MDIA" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MDIA.xml">Media</subject>
+        <subject id="MDVL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MDVL.xml">Medieval Studies</subject>
+        <subject id="ME" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ME.xml">Mechanical Engineering</subject>
+        <subject id="MFST" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MFST.xml">Metropolitan Food and Environmental Systems</subject>
+        <subject id="MICR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MICR.xml">Microbiology</subject>
+        <subject id="MILS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MILS.xml">Military Science</subject>
+        <subject id="MIP" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MIP.xml">Molecular and Integrative Physiology</subject>
+        <subject id="MSE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MSE.xml">Materials Science and Engineering</subject>
+        <subject id="MUS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MUS.xml">Music</subject>
+        <subject id="MUSC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MUSC.xml">Music Lessons and Ensembles</subject>
+        <subject id="MUSE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/MUSE.xml">Museum Studies</subject>
+        <subject id="NEUR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/NEUR.xml">Neuroscience</subject>
+        <subject id="NPRE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/NPRE.xml">Nuclear, Plasma, and Radiological Engineering</subject>
+        <subject id="NRES" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/NRES.xml">Natural Resources and Environmental Sciences</subject>
+        <subject id="NS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/NS.xml">Naval Science</subject>
+        <subject id="NUTR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/NUTR.xml">Nutritional Sciences</subject>
+        <subject id="PATH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PATH.xml">Pathobiology</subject>
+        <subject id="PBIO" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PBIO.xml">Plant Biology</subject>
+        <subject id="PERS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PERS.xml">Persian</subject>
+        <subject id="PHIL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PHIL.xml">Philosophy</subject>
+        <subject id="PHYS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PHYS.xml">Physics</subject>
+        <subject id="PLPA" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PLPA.xml">Plant Pathology</subject>
+        <subject id="POL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/POL.xml">Polish</subject>
+        <subject id="PORT" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PORT.xml">Portuguese</subject>
+        <subject id="PS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PS.xml">Political Science</subject>
+        <subject id="PSM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PSM.xml">Professional Science Master's Program</subject>
+        <subject id="PSYC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/PSYC.xml">Psychology</subject>
+        <subject id="REES" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/REES.xml">Russian, East European and Eurasian Studies</subject>
+        <subject id="REHB" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/REHB.xml">Rehabilitation Counseling</subject>
+        <subject id="REL" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/REL.xml">Religion</subject>
+        <subject id="RHET" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/RHET.xml">Rhetoric and Composition</subject>
+        <subject id="RSOC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/RSOC.xml">Rural Sociology</subject>
+        <subject id="RST" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/RST.xml">Recreation, Sport, and Tourism</subject>
+        <subject id="RUSS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/RUSS.xml">Russian</subject>
+        <subject id="SAME" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SAME.xml">South Asian and Middle Eastern Studies</subject>
+        <subject id="SBC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SBC.xml">Strategic Brand Communication</subject>
+        <subject id="SCAN" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SCAN.xml">Scandinavian</subject>
+        <subject id="SE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SE.xml">Systems Engineering and Design</subject>
+        <subject id="SHS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SHS.xml">Speech and Hearing Science</subject>
+        <subject id="SLAV" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SLAV.xml">Slavic</subject>
+        <subject id="SLS" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SLS.xml">Second Language Studies</subject>
+        <subject id="SOC" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SOC.xml">Sociology</subject>
+        <subject id="SOCW" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SOCW.xml">Social Work</subject>
+        <subject id="SPAN" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SPAN.xml">Spanish</subject>
+        <subject id="SPED" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SPED.xml">Special Education</subject>
+        <subject id="STAT" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/STAT.xml">Statistics</subject>
+        <subject id="SWAH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/SWAH.xml">Swahili</subject>
+        <subject id="TAM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/TAM.xml">Theoretical and Applied Mechanics</subject>
+        <subject id="TE" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/TE.xml">Technology Entrepreneurship</subject>
+        <subject id="THEA" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/THEA.xml">Theatre</subject>
+        <subject id="TMGT" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/TMGT.xml">Technology and Management Courses</subject>
+        <subject id="TRST" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/TRST.xml">Translation Studies</subject>
+        <subject id="TSM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/TSM.xml">Technical Systems Management</subject>
+        <subject id="TURK" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/TURK.xml">Turkish</subject>
+        <subject id="UKR" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/UKR.xml">Ukrainian</subject>
+        <subject id="UP" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/UP.xml">Urban and Regional Planning</subject>
+        <subject id="VCM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/VCM.xml">Veterinary Clinical Medicine</subject>
+        <subject id="VM" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/VM.xml">Veterinary Medicine Courses</subject>
+        <subject id="WLOF" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/WLOF.xml">Wolof</subject>
+        <subject id="WRIT" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/WRIT.xml">Writing Studies</subject>
+        <subject id="YDSH" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/YDSH.xml">Yiddish</subject>
+        <subject id="ZULU" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall/ZULU.xml">Zulu</subject>
+    </subjects>
+</ns2:term>

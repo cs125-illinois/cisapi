@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:schedule xmlns:ns2="http://rest.cis.illinois.edu">
+    <label>Calendar Years</label>
+    <calendarYears>
+        <calendarYear id="2020" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020.xml">2020</calendarYear>
+        <calendarYear id="2019" href="https://courses.illinois.edu/cisapp/explorer/schedule/2019.xml">2019</calendarYear>
+        <calendarYear id="2018" href="https://courses.illinois.edu/cisapp/explorer/schedule/2018.xml">2018</calendarYear>
+        <calendarYear id="2017" href="https://courses.illinois.edu/cisapp/explorer/schedule/2017.xml">2017</calendarYear>
+        <calendarYear id="2016" href="https://courses.illinois.edu/cisapp/explorer/schedule/2016.xml">2016</calendarYear>
+        <calendarYear id="2015" href="https://courses.illinois.edu/cisapp/explorer/schedule/2015.xml">2015</calendarYear>
+        <calendarYear id="2014" href="https://courses.illinois.edu/cisapp/explorer/schedule/2014.xml">2014</calendarYear>
+        <calendarYear id="2013" href="https://courses.illinois.edu/cisapp/explorer/schedule/2013.xml">2013</calendarYear>
+        <calendarYear id="2012" href="https://courses.illinois.edu/cisapp/explorer/schedule/2012.xml">2012</calendarYear>
+        <calendarYear id="2011" href="https://courses.illinois.edu/cisapp/explorer/schedule/2011.xml">2011</calendarYear>
+        <calendarYear id="2010" href="https://courses.illinois.edu/cisapp/explorer/schedule/2010.xml">2010</calendarYear>
+        <calendarYear id="2009" href="https://courses.illinois.edu/cisapp/explorer/schedule/2009.xml">2009</calendarYear>
+        <calendarYear id="2008" href="https://courses.illinois.edu/cisapp/explorer/schedule/2008.xml">2008</calendarYear>
+        <calendarYear id="2007" href="https://courses.illinois.edu/cisapp/explorer/schedule/2007.xml">2007</calendarYear>
+        <calendarYear id="2006" href="https://courses.illinois.edu/cisapp/explorer/schedule/2006.xml">2006</calendarYear>
+        <calendarYear id="2005" href="https://courses.illinois.edu/cisapp/explorer/schedule/2005.xml">2005</calendarYear>
+        <calendarYear id="2004" href="https://courses.illinois.edu/cisapp/explorer/schedule/2004.xml">2004</calendarYear>
+    </calendarYears>
+</ns2:schedule>

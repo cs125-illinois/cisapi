@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:calendarYear xmlns:ns2="http://rest.cis.illinois.edu" id="2020">
+    <label>2020</label>
+    <terms>
+        <term id="120200" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/winter.xml">Winter 2020</term>
+        <term id="120201" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/spring.xml">Spring 2020</term>
+        <term id="120205" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/summer.xml">Summer 2020</term>
+        <term id="120208" href="https://courses.illinois.edu/cisapp/explorer/schedule/2020/fall.xml">Fall 2020</term>
+    </terms>
+</ns2:calendarYear>
