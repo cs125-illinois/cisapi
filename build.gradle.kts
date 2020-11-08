@@ -1,22 +1,23 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    val kotlinVersion = "1.3.72"
+    val kotlinVersion = "1.4.10"
     kotlin("jvm") version kotlinVersion
-    id("org.jmailen.kotlinter") version "2.4.0"
-    id("com.github.ben-manes.versions") version "0.28.0"
-    id("io.gitlab.arturbosch.detekt") version "1.9.1"
+    id("org.jmailen.kotlinter") version "3.2.0"
+    id("com.github.ben-manes.versions") version "0.33.0"
+    id("io.gitlab.arturbosch.detekt") version "1.14.1"
 }
 repositories {
     jcenter()
 }
 dependencies {
     implementation(kotlin("stdlib"))
-    implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.11.0")
-    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.11.0")
+    implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.11.3")
+    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.11.3")
     implementation("com.fasterxml.woodstox:woodstox-core:6.2.1")
+    implementation("com.github.kittinunf.fuel:fuel:2.3.0")
 
-    testImplementation("io.kotlintest:kotlintest-runner-junit5:3.4.2")
+    testImplementation("io.kotest:kotest-runner-junit5:4.2.6")
 }
 tasks.withType<KotlinCompile> {
     val javaVersion = JavaVersion.VERSION_1_8.toString()
